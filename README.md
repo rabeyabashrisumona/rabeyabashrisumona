@@ -190,6 +190,3 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
-</div>
