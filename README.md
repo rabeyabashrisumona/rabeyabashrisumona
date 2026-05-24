@@ -17,16 +17,19 @@
 
 ## 👩‍💻 About Me
 
-Hi — I'm **Rabeya**, an AI/ML Engineer, QA Automation Engineer, and active researcher from **Dhaka, Bangladesh**.
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I build intelligent systems that matter — from deep learning models that analyse medical images, to automated test frameworks that catch what humans miss. I don't just study AI; I ship it, validate it, and publish it.
+🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
 
-- 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
-- 🏅 **BSc CSE (AI Major)** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
-- 🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
-- 📄 **Elsevier Q1 First Author** — Medical AI & Brain Tumor Diagnosis (2025)
-- 🧪 Building production-grade **QA automation frameworks** with Playwright
-- 💡 Full pipeline engineer — from raw data and model training to evaluation, CI/CD, and documentation
+🏅 **BSc CSE · AI Major** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
+
+🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
+
+📄 **Elsevier Q1 First Author** — Medical AI & Brain Tumor Diagnosis (2025)
+
+🧪 **QA Automation Engineer** — Playwright · API · E2E · CI/CD
+
+<br clear="right"/>
 
 ---
 
