@@ -1,57 +1,102 @@
-
-# 📊 Technical Skill Balance
-
-## 🤖 AI / Deep Learning Engineering
-
-<p>
-<img src="https://img.shields.io/badge/Deep_Learning-CNN%20%2F%20Transfer%20Learning-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-90%25-success?style=for-the-badge"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-Model_Development-EE4C2C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-85%25-success?style=for-the-badge"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Feature_Engineering-Data_Processing-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-80%25-success?style=for-the-badge"/>
+<!-- 🔥 Clean Research Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Researcher+%7C+Machine+Learning+Engineer+%7C+QA+Automation+Engineer;Deep+Learning+%7C+Graph+Neural+Networks+%7C+Computer+Vision;Building+Reliable+and+Interpretable+AI+Systems" />
 </p>
 
 ---
 
-## 🧠 Research / GNN Systems
+# 👋 About Me
 
-<p>
-<img src="https://img.shields.io/badge/Graph_Neural_Networks-GAT-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-80%25-success?style=for-the-badge"/>
+I am a Computer Science & Engineering student focused on **Artificial Intelligence, Machine Learning systems, and Software Quality Assurance**.
+
+My work spans across **research, engineering, and system validation**, with a strong interest in building **reliable and interpretable AI systems**.
+
+I aim to pursue **research-oriented roles in AI systems while maintaining strong engineering and testing expertise**.
+
+---
+
+# 🔬 Research Focus
+
+- Graph Neural Networks (GAT, message passing frameworks)
+- Medical Image Analysis using Deep Learning
+- Explainable AI (model interpretability, Grad-CAM)
+- Transfer Learning and Hybrid CNN architectures
+- Experimental model design and evaluation methodologies
+- Robustness and reliability in AI systems
+
+---
+
+# ⚙️ Machine Learning Engineering
+
+- PyTorch / TensorFlow model development
+- End-to-end ML pipelines (data → training → evaluation)
+- Dataset preprocessing, augmentation, and cleaning
+- CNN-based architecture design and optimization
+- Training stability and performance tuning
+- Reproducible ML workflow design
+
+---
+
+# 🧪 Software QA & Automation Engineering
+
+- API testing (REST APIs, Postman)
+- Test case design and QA documentation
+- Automation testing using Playwright
+- Bug tracking and SDLC/STLC workflows
+- System validation and reliability testing
+- Ensuring quality in software and AI systems
+
+---
+
+# 📊 Technical Skills
+
+**Programming:** Python, SQL  
+
+**Machine Learning:** PyTorch, TensorFlow, Keras  
+
+**Data Processing:** Pandas, NumPy, Matplotlib  
+
+**Testing & Automation:** Postman, Playwright  
+
+**Tools:** Git, GitHub, Jira, LaTeX  
+
+---
+
+# 🎯 Academic & Career Direction
+
+- Research-focused AI system development  
+- Graph-based learning and structured AI models  
+- Explainable and trustworthy AI systems  
+- Machine learning pipeline engineering  
+- Software testing and validation of AI systems  
+- Preparation for RA / TA / Lecturer roles  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
+
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Explainable_AI-XAI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-78%25-success?style=for-the-badge"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Experimental_Design-Research_Work-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-80%25-success?style=for-the-badge"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night" width="95%"/>
 </p>
 
 ---
 
-## 🧪 QA / Software Testing
+# 📫 Contact
 
-<p>
-<img src="https://img.shields.io/badge/API_Testing-REST_%2F_Postman-FF4500?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-80%25-success?style=for-the-badge"/>
-</p>
+- GitHub: https://github.com/your-github-username  
+- Email: your-email@example.com  
+- LinkedIn: your-linkedin-url  
 
-<p>
-<img src="https://img.shields.io/badge/Test_Design-QA_Documentation-20B2AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-80%25-success?style=for-the-badge"/>
-</p>
+---
 
-<p>
-<img src="https://img.shields.io/badge/Automation-Playwright-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proficiency-75%25-success?style=for-the-badge"/>
+<p align="center">
+⚡ Focused on building AI systems that are accurate, interpretable, and reliable ⚡
 </p>
