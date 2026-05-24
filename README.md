@@ -178,10 +178,10 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=rabeyabashrisumona&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="46%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="46%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&bg_color=0d1117&color=58A6FF&line=58A6FF&point=f59e0b&hide_border=true&area=true&area_color=1e3a5f" width="98%"/>
 
