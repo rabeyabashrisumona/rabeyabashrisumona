@@ -1,214 +1,206 @@
-<!-- WAVE HEADER -->
+<!-- ========================= BANNER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:7c3aed&height=200&section=header&text=Rabeya%20Bashri%20Sumona&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%7C%20QA%20Engineer%20%7C%20ML%20Researcher&descSize=17&descAlignY=63&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,17,30&text=Rabeya%20Bashri%20Sumona&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20QA%20Engineer%20%E2%80%A2%20ML%20Researcher&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
-<!-- TYPING -->
+<!-- ========================= TYPING ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=AI+%26+ML+Engineer+%7C+Published+Q1+First+Author;Computer+Vision+for+Medical+AI+%7C+Healthcare+Outcomes;QA+Automation+Engineer+%7C+Playwright+%7C+CI%2FCD;MSc+CSE+%40+North+South+University%2C+Bangladesh;Building+AI+that+makes+real+impact+in+medicine" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;QA+Automation+Engineer;Elsevier+Q1+First+Author;Computer+Vision+%7C+Medical+AI;MSc+CSE+%40+North+South+University" />
 </p>
 
-<!-- BADGES -->
+<!-- ========================= TAGLINE ========================= -->
+<h3 align="center">
+Building AI Solutions • Researching Intelligent Systems • Automating Quality
+</h3>
 <p align="center">
-  <a href="mailto:rabeyabashrisumona@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/sumona18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>&nbsp;
-  <a href="https://peerresearchlab.com/team"><img src="https://img.shields.io/badge/Research_Lab-7C3AED?style=for-the-badge&logo=flask&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/rabeyabashrisumona"><img src="https://img.shields.io/badge/GitHub-e2e8f0?style=for-the-badge&logo=github&logoColor=black"/></a>
+BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Computer Vision
 </p>
 
+<!-- ========================= PROFILE VIEWS ========================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabeyabashrisumona&label=Profile+Views&color=60a5fa&style=flat-square"/>
-</p>
-
----
-
-# About Me
-
-<img align="right" width="290" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
-
-I'm an **AI/ML Engineer, QA Automation Engineer, and published researcher** from Dhaka, Bangladesh.
-
-My focus is using **Computer Vision and Deep Learning to produce measurable outcomes in healthcare** — building systems that help doctors diagnose faster and more accurately.
-
-- 🎓 **MSc CSE** — North South University *(CGPA: 3.50 / 4.00, ongoing)*
-- 🏅 **BSc CSE** — BUBT *(CGPA: 3.82 / 4.00, AI Major)*
-- 🔬 **Research Assistant** — [Peer Research Lab](https://peerresearchlab.com/team)
-- 📄 **Elsevier Q1 First Author** — Medical AI, Brain Tumor Diagnosis
-
-<br clear="right"/>
-
----
-
-## 💼 Experience
-
-### Research Assistant — Peer Research Lab &nbsp; `Oct 2025 – Present`
-- Built hybrid CNN models for multi-class brain tumor classification with **PyTorch**
-- Applied transfer learning (ResNet50, Xception), augmentation, and stratified splitting
-- Full evaluation pipeline: Accuracy, Precision, Recall, F1, ROC-AUC, Confusion Matrix
-- Hyperparameter tuning and learning rate scheduling for performance optimization
-- Led to **Q1 Elsevier publication** (first author) through experimental validation
-
-### Business Analyst — Munshe IT &nbsp; `Jul 2025 – Aug 2025`
-- Mapped software requirements and functional workflows
-- Coordinated with developers on documentation, task tracking, and reporting
-
----
-
-## 📄 Publications
-
-### 🏅 Elsevier Q1 — Published 2025 &nbsp; `First Author`
-
-**An Integrated Deep Learning Approach for Enhancing Brain Tumor Diagnosis**
-
-CNN Architectures · Transfer Learning · Medical Image Classification · Brain Tumor Diagnosis
-
-🔗 [doi.org/10.1016/j.health.2025.100421](https://doi.org/10.1016/j.health.2025.100421)
-
----
-
-### 📋 Under Review — Data In Brief
-
-**BanglaVegNet: A Comprehensive Multiclass Image Dataset of Traditional Bangladeshi Vegetables for AI Applications**
-
----
-
-## 🚀 Featured Projects
-
-### 🎭 [PlayVision — Multi-Layer QA Automation Framework](https://github.com/rabeyabashrisumona/playvision-qa-automation)
-
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-60a5fa?style=flat-square)
-![POM](https://img.shields.io/badge/Page_Object_Model-7c3aed?style=flat-square)
-
-A **production-grade, three-layer automated QA framework** built entirely with Playwright — testing a real e-commerce application across API, E2E functional, and visual regression layers. Follows the same multi-layer approach used at Google and Thoughtworks.
-
-| Layer | Tests | Result |
-|---|---|---|
-| API Testing | 6 | ✅ All Passing |
-| E2E Functional | 7 | ✅ All Passing |
-| Visual Regression | 5 | ✅ All Passing |
-| **Total** | **18** | **✅ 18 / 18** |
-
-> Architecture: Page Object Model (8 classes) · Centralized test data · CI/CD auto-runs on every push · Negative testing included
-
----
-
-### 🧬 RDXNet — Hybrid Brain Tumor Classifier
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Medical AI](https://img.shields.io/badge/Medical_AI-22c55e?style=flat-square)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-f59e0b?style=flat-square)
-
-Hybrid CNN combining **Xception + ResNet50** for multi-class brain tumor classification — full pipeline including augmentation, training, ROC curves, confusion matrices, and Grad-CAM visualizations.
-
----
-
-### 🧠 3D MRI Brain Tumor Segmentation — BRATS2020
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![3D Segmentation](https://img.shields.io/badge/3D_Segmentation-7c3aed?style=flat-square)
-
-Volumetric MRI preprocessing and deep learning segmentation evaluation using **Dice coefficient** and **IoU metrics**.
-
----
-
-### ✋ Real-Time Gesture Recognition System
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Real-Time](https://img.shields.io/badge/Real--Time_Inference-f59e0b?style=flat-square)
-
-CNN-based real-time gesture classification — custom dataset, training loop, and live inference module.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI / ML / Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-60a5fa?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-a78bfa?style=for-the-badge&logo=pandas&logoColor=white)
-
-**QA & Automation**
-
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-34d399?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-| | |
-|---|---|
-| 🥇 | **National Champion** — Poster Presentation, BCS ICT Fest 2025, IICT, BUET |
-| 🥇 | **Inter-University Champion** — Innovative Idea Pitching, Brainstorming Week 2024 |
-| 🥉 | **3rd Place** — Research Poster Presentation (AI Mode), Brainstorming Week 2024 |
-| 🎯 | **Finalist** — Coding Sprint 2024 (Machine Learning Competition) |
-| 📄 | **Elsevier Q1 First Author** — Medical AI, 2025 |
-
----
-
-## 🎓 Education
-
-| | | |
-|---|---|---|
-| 🏛️ | **North South University** | MSc in CSE · CGPA 3.50/4.00 · 2025–Present |
-| 🏛️ | **BUBT** | BSc in CSE · CGPA 3.82/4.00 · AI Major · 2021–2025 |
-| 🏫 | **Shaheed Police Smrity College** | HSC · CGPA 5.00/5.00 · 2020 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=60a5fa&icon_color=a78bfa&text_color=e2e8f0" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=tokyonight&hide_border=true&ring=60a5fa&fire=f59e0b&currStreakLabel=60a5fa" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=tokyonight&hide_border=true&title_color=60a5fa&text_color=e2e8f0&langs_count=7" width="46%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&theme=tokyo-night&hide_border=true&area=true&color=60a5fa&line=7c3aed&point=f59e0b" width="98%"/>
+  <img src="https://komarev.com/ghpvc/?username=rabeyabashrisumona&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 📫 Connect
+# 🚀 About Me
 
-<p align="center">
-  <a href="mailto:rabeyabashrisumona@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://linkedin.com/in/sumona18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-</p>
+- 🔬 Currently working as a **Research Assistant at [Peer Research Lab](https://peerresearchlab.com/team)**, building hybrid CNN models for brain tumor classification and contributing to published medical AI research.
 
-<p align="center"><i>Open to research collaborations, AI/ML projects, and QA engineering opportunities.</i></p>
+- 📄 **Elsevier Q1 First Author** — published research on deep learning for brain tumor diagnosis using CNNs, Transfer Learning, and hybrid architectures.
+
+- 🏥 Passionate about **Computer Vision and Medical AI** — building systems that produce real, measurable outcomes for healthcare and diagnosis.
+
+- 🧪 Experienced in **QA Automation Engineering** — multi-layer testing frameworks with Playwright covering API, E2E functional, and visual regression testing.
+
+- 🎓 Completed **BSc in Computer Science & Engineering (AI Major)** from **Bangladesh University of Business and Technology (BUBT)** with a CGPA of **3.82 / 4.00**.
 
 ---
+
+# 💼 Experience
+
+## 🔬 Research Assistant — Peer Research Lab
+`Oct 2025 – Present`
+- Developed hybrid CNN models for multi-class brain tumor classification using **PyTorch**
+- Implemented transfer learning with **ResNet50 and Xception** architectures
+- Applied data augmentation, preprocessing, and stratified splitting
+- Full evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix
+- Hyperparameter tuning and learning rate scheduling for model optimization
+- Contributed to **Q1 Elsevier publication** as first author through experimental validation
+
+---
+
+## 📊 Business Analyst — Munshe IT
+`Jul 2025 – Aug 2025`
+- Analyzed software requirements and mapped functional workflows
+- Collaborated with developers to clarify requirements and resolve ambiguities
+- Assisted in documentation, task tracking, and reporting
+
+---
+
+# 📚 Research & Publications
+
+## 🧠 Elsevier Q1 Publication — `First Author`
+### *An Integrated Deep Learning Approach for Enhancing Brain Tumor Diagnosis*
+
+- Published in an **Elsevier Q1 indexed journal**, 2025
+- Research focused on:
+  - CNN Architectures & Hybrid Model Design
+  - Transfer Learning (ResNet, Xception)
+  - Medical Image Classification
+  - Brain Tumor Diagnosis
+  - Explainability with Grad-CAM
+
+🔗 DOI: [doi.org/10.1016/j.health.2025.100421](https://doi.org/10.1016/j.health.2025.100421)
+
+---
+
+## 📋 Under Review
+### *BanglaVegNet: A Comprehensive Multiclass Image Dataset of Traditional Bangladeshi Vegetables for AI Applications*
+*Data In Brief — Under Review*
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,js,nodejs,mysql,mongodb,git,github,latex,jira,vscode,linux" />
+</p>
+
+---
+
+# 🛠 Technical Skills
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="25%">
+
+### 🤖 AI & Machine Learning
+- Machine Learning Pipelines
+- CNN Architectures
+- Transfer Learning
+- Hybrid Model Design
+- Feature Engineering
+- Data Analysis & Visualization
+
+</td>
+
+<td valign="top" width="25%">
+
+### 👁️ Computer Vision
+- Medical Image Analysis
+- Image Segmentation (3D MRI)
+- Brain Tumor Classification
+- Grad-CAM Visualization
+- Data Augmentation
+- Model Evaluation (ROC-AUC)
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🧪 QA & Automation
+- Playwright (API · E2E · Visual)
+- REST API Testing
+- Test Case Design
+- CI/CD (GitHub Actions)
+- Bug Reporting & Tracking
+- SDLC & STLC
+
+</td>
+
+<td valign="top" width="25%">
+
+### 📊 Data & Tools
+- Python · SQL · JavaScript
+- PyTorch · TensorFlow
+- Pandas · NumPy · OpenCV
+- MySQL · MongoDB
+- Git · Jira · LaTeX
+- Postman · Node.js
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Achievements
+
+- 🥇 **National Champion** — Poster Presentation, BCS ICT Fest 2025, IICT, BUET
+- 🥇 **Inter-University Champion** — Innovative Idea Pitching, Brainstorming Week 2024
+- 🥉 **3rd Place** — Research Poster Presentation (AI Mode), Brainstorming Week 2024
+- 🎯 **Finalist** — Coding Sprint 2024 (Machine Learning Competition)
+- 📄 **Elsevier Q1 First Author** — Medical AI & Brain Tumor Diagnosis, 2025
+
+---
+
+# 🎓 Education
+
+| | Institution | Degree | CGPA | Year |
+|---|---|---|---|---|
+| 🏛️ | **North South University** | MSc in CSE | 3.50 / 4.00 | 2025 – Present |
+| 🏛️ | **BUBT** | BSc in CSE · AI Major | 3.82 / 4.00 | 2021 – 2025 |
+| 🏫 | **Shaheed Police Smrity College** | HSC | 5.00 / 5.00 | 2020 |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=github-dark-blue&hide_border=true" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&langs_count=7" width="46%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&theme=github-compact&hide_border=true&area=true" width="98%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sumona18" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en" target="blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://peerresearchlab.com/team" target="blank">
+    <img src="https://img.shields.io/badge/Research_Lab-7C3AED?style=for-the-badge&logo=flask&logoColor=white" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ "Passionate about building Computer Vision systems that create real, measurable outcomes in healthcare and medicine." ⭐
+</p>
 
 <!-- SNAKE -->
 <picture>
@@ -217,5 +209,5 @@ CNN-based real-time gesture classification — custom dataset, training loop, an
   <img alt="contribution snake" src="https://raw.githubusercontent.com/rabeyabashrisumona/rabeyabashrisumona/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<!-- WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e40af,100:0f172a&height=110&section=footer" width="100%"/>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
