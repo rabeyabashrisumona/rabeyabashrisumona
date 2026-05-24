@@ -1,114 +1,130 @@
-<!-- ========================= BANNER ========================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,17,30&text=Rabeya%20Bashri%20Sumona&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20QA%20Engineer%20%E2%80%A2%20ML%20Researcher&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,20,17,30&text=Rabeya%20Bashri%20Sumona&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20QA%20Engineer%20%E2%80%A2%20ML%20Researcher&descAlignY=58&descSize=20" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Computer+Vision+%7C+Medical+AI;Elsevier+Q1+First+Author;QA+Automation+Engineer;MSc+CSE+%40+North+South+University)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumona18)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en)
+[![Research Lab](https://img.shields.io/badge/Peer_Research_Lab-7C3AED?style=for-the-badge&logo=flask&logoColor=white)](https://peerresearchlab.com/team)
+[![Profile Views](https://komarev.com/ghpvc/?username=rabeyabashrisumona&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/rabeyabashrisumona)
+
 </div>
 
-<!-- ========================= TYPING ========================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;QA+Automation+Engineer;Elsevier+Q1+First+Author;Computer+Vision+%7C+Medical+AI;MSc+CSE+%40+North+South+University" />
-</p>
+---
 
-<h3 align="center">
-Building AI Solutions • Researching Intelligent Systems • Automating Quality
-</h3>
-<p align="center">
-BSc CSE (AI Major) &nbsp;•&nbsp; Elsevier Q1 First Author &nbsp;•&nbsp; QA Automation &nbsp;•&nbsp; Medical Computer Vision
-</p>
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabeyabashrisumona&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+Hi — I'm **Rabeya**, an AI/ML Engineer, QA Automation Engineer, and active researcher from **Dhaka, Bangladesh**.
+
+I believe AI can transform how medicine works. My mission is to build **Computer Vision systems that give doctors clearer insight, more accurate diagnoses, and better outcomes for patients** — turning research into real-world impact.
+
+- 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
+- 🏅 **BSc CSE (AI Major)** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
+- 🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
+- 📄 **Elsevier Q1 First Author** — Medical AI & Brain Tumor Diagnosis (2025)
+- 🧪 Building production-grade **QA automation frameworks** with Playwright
+- 💡 Full pipeline engineer — from raw data and model training to evaluation, CI/CD, and documentation
 
 ---
 
-# 🚀 About Me
+## 📄 Research & Publications
 
-- 🧠 I build **deep learning systems that analyze medical images** — my published work focuses on brain tumor classification using hybrid CNNs, and I'm actively expanding that into 3D MRI segmentation and explainable AI.
+### 🧠 Elsevier Q1 · 2025
 
-- 📄 **Elsevier Q1 First Author** — not just a contributor, I led the experiments, validation, and technical writing for a published medical AI paper in 2025.
+> **An Integrated Deep Learning Approach for Enhancing Brain Tumor Diagnosis**
 
-- 🧪 I also build **production-grade QA automation frameworks** using Playwright — multi-layer testing across API, E2E, and visual regression, with CI/CD running on every push.
+![First Author](https://img.shields.io/badge/Role-First%20Author-a78bfa?style=for-the-badge) ![Elsevier Q1](https://img.shields.io/badge/Elsevier-Q1%20Indexed-58a6ff?style=for-the-badge) ![Year](https://img.shields.io/badge/Year-2025-f59e0b?style=for-the-badge)
 
-- 🎓 Currently doing **MSc in CSE at North South University** while working as a Research Assistant at [Peer Research Lab](https://peerresearchlab.com/team), shipping real research.
+Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
-- 💡 I work across the full pipeline — from raw data and model training to evaluation, testing, and documentation. I don't just research; I build and validate.
+`CNN Architectures` `Transfer Learning` `ResNet50` `Xception` `Brain Tumor Classification` `Grad-CAM` `Medical Image Analysis`
+
+🔗 [doi.org/10.1016/j.health.2025.100421](https://doi.org/10.1016/j.health.2025.100421)
 
 ---
 
-# 💼 Experience
+### 📋 Under Review · Data In Brief
 
-## 🔬 Research Assistant — Peer Research Lab
+> **BanglaVegNet: A Comprehensive Multiclass Image Dataset of Traditional Bangladeshi Vegetables for AI Applications**
+
+---
+
+## 💼 Experience
+
+### 🔬 Research Assistant — Peer Research Lab
 `Oct 2025 – Present`
+
 - Developed hybrid CNN models for multi-class brain tumor classification using **PyTorch**
-- Implemented transfer learning with **ResNet50 and Xception** architectures
-- Applied data augmentation, preprocessing, and stratified splitting
+- Implemented transfer learning with **ResNet50** and **Xception** architectures
+- Applied data augmentation, preprocessing, and stratified splitting pipelines
 - Full evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix
 - Hyperparameter tuning and learning rate scheduling for model optimization
-- Led to **Q1 Elsevier publication** as first author through experimental validation
+- Led to **Q1 Elsevier publication** as first author through rigorous experimental validation
 
----
-
-## 📊 Business Analyst — Munshe IT
+### 📊 Business Analyst — Munshe IT
 `Jul 2025 – Aug 2025`
+
 - Analyzed software requirements and mapped functional workflows
-- Collaborated with developers on documentation, task tracking, and reporting
+- Collaborated with developers on documentation, task tracking, and sprint reporting
 
 ---
 
-# 📚 Research & Publications
+## ⚡ Tech Stack
 
-## 🧠 Elsevier Q1 — `First Author` — 2025
-### *An Integrated Deep Learning Approach for Enhancing Brain Tumor Diagnosis*
+<div align="center">
 
-- Published in an **Elsevier Q1 indexed journal**
-- CNN Architectures · Transfer Learning (ResNet, Xception) · Medical Image Classification · Brain Tumor Diagnosis · Grad-CAM
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-🔗 DOI: [doi.org/10.1016/j.health.2025.100421](https://doi.org/10.1016/j.health.2025.100421)
+</div>
 
 ---
 
-## 📋 Under Review — Data In Brief
-### *BanglaVegNet: A Comprehensive Multiclass Image Dataset of Traditional Bangladeshi Vegetables for AI Applications*
-
----
-
-# ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,js,nodejs,mysql,mongodb,git,github,latex,jira,vscode,linux" />
-</p>
-
----
-
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
 <table width="100%">
 <tr>
-
 <td valign="top" width="25%">
 
-### 🤖 AI & Machine Learning
-- Machine Learning Pipelines
+### 🤖 AI & ML
 - CNN Architectures
-- Transfer Learning
 - Hybrid Model Design
+- Transfer Learning
+- ML Pipelines
 - Feature Engineering
 - Data Analysis & Visualization
 
 </td>
-
 <td valign="top" width="25%">
 
 ### 👁️ Computer Vision
 - Medical Image Analysis
-- Image Segmentation (3D MRI)
+- 3D MRI Segmentation
 - Brain Tumor Classification
 - Grad-CAM Visualization
 - Data Augmentation
-- Model Evaluation (ROC-AUC)
+- ROC-AUC Evaluation
 
 </td>
-
 <td valign="top" width="25%">
 
 ### 🧪 QA & Automation
@@ -120,7 +136,6 @@ BSc CSE (AI Major) &nbsp;•&nbsp; Elsevier Q1 First Author &nbsp;•&nbsp; QA A
 - SDLC & STLC
 
 </td>
-
 <td valign="top" width="25%">
 
 ### 📊 Data & Tools
@@ -132,16 +147,15 @@ BSc CSE (AI Major) &nbsp;•&nbsp; Elsevier Q1 First Author &nbsp;•&nbsp; QA A
 - Postman · Node.js
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-| | |
-|---|---|
+| Medal | Achievement |
+|:---:|---|
 | 🥇 | **National Champion** — Poster Presentation, BCS ICT Fest 2025, IICT, BUET |
 | 🥇 | **Inter-University Champion** — Innovative Idea Pitching, Brainstorming Week 2024 |
 | 🥉 | **3rd Place** — Research Poster Presentation (AI Mode), Brainstorming Week 2024 |
@@ -150,57 +164,35 @@ BSc CSE (AI Major) &nbsp;•&nbsp; Elsevier Q1 First Author &nbsp;•&nbsp; QA A
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 | | Institution | Degree | CGPA | Year |
-|---|---|---|---|---|
+|:---:|---|---|:---:|:---:|
 | 🏛️ | **North South University** | MSc in CSE | 3.50 / 4.00 | 2025 – Present |
-| 🏛️ | **BUBT** | BSc in CSE · AI Major | 3.82 / 4.00 | 2021 – 2025 |
+| 🏛️ | **BUBT** | BSc in CSE · AI Major · 🥉 3rd in Department | 3.82 / 4.00 | 2021 – 2025 |
 | 🏫 | **Shaheed Police Smrity College** | HSC | 5.00 / 5.00 | 2020 |
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=7" width="46%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&bg_color=0d1117&color=58A6FF&line=58A6FF&point=f59e0b&hide_border=true&area=true&area_color=1e3a5f" width="98%"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF" width="49%"/>
 
-### 🌐 Connect with Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="46%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sumona18" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en" target="blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://peerresearchlab.com/team" target="blank">
-    <img src="https://img.shields.io/badge/Research_Lab-7C3AED?style=for-the-badge&logo=flask&logoColor=white" height="40"/>
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&bg_color=0d1117&color=58A6FF&line=58A6FF&point=f59e0b&hide_border=true&area=true&area_color=1e3a5f" width="98%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&lines=I+train+models+that+see+what+eyes+miss+%E2%80%94+and+test+systems+before+they+fail+in+production." />
-</p>
+<div align="center">
 
-<!-- SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabeyabashrisumona/rabeyabashrisumona/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabeyabashrisumona/rabeyabashrisumona/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/rabeyabashrisumona/rabeyabashrisumona/output/github-contribution-grid-snake.svg"/>
-</picture>
+*I train models that see what eyes miss — and test systems before they fail in production.*
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
+
+</div>
