@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
 
@@ -192,7 +192,5 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,20,17,30&height=120&section=footer&text=I%20didn%27t%20wait%20for%20opportunity%20%E2%80%94%20I%20built%20it%2C%20tested%20it%2C%20and%20published%20it.&fontSize=15&fontColor=58A6FF&animation=fadeIn&fontAlignY=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
 </div>
