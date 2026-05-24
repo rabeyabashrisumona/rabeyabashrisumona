@@ -21,7 +21,7 @@
 
 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
 
-🏅 **BSc CSE · AI Major** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
+🏅 **BSc CSE · AI Major** @ Bangladesh University of Business and Technology *(CGPA: 3.82/4.00 · 3rd in Department)*
 
 🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
 
@@ -171,7 +171,7 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 | | Institution | Degree | CGPA | Year |
 |:---:|---|---|:---:|:---:|
 | 🏛️ | **North South University** | MSc in CSE | 3.50 / 4.00 | 2025 – Present |
-| 🏛️ | **BUBT** | BSc in CSE · AI Major · 🥉 3rd in Department | 3.82 / 4.00 | 2021 – 2025 |
+| 🏛️ | **Bangladesh University of Business and Technology** | BSc in CSE · AI Major · 🥉 3rd in Department | 3.82 / 4.00 | 2021 – 2025 |
 | 🏫 | **Shaheed Police Smrity College** | HSC | 5.00 / 5.00 | 2020 |
 
 ---
