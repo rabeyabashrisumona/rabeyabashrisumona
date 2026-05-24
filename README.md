@@ -1,26 +1,83 @@
-<h1 align="center">Hello 👋, I'm Rabeya Bashri Sumona</h1>
-<h3 align="center">I'm passionate about ML, DL, and Neural Networks, with a growing interest in Graph Neural Networks and Generative AI.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabeyabashrisumona&label=Profile%20views&color=0e75b6&style=flat" alt="rabeyabashrisumona" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabeyabashrisumona" alt="rabeyabashrisumona" /></a> </p>
-
-- 🔭 I’m currently working on **A Comprehensive Analysis of 3D MRI Brain Tumor Segmentation using BRATS 2020 Dataset**
-
-- 🌱 I’m currently learning **Generative AI(NLP, LLM etc)**
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning**
-
-- 📫 How to reach me **rabeyabashrisumona@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumona18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumona18/" height="30" width="40" /></a>
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+Research+%7C+Machine+Learning+Engineer+%7C+SQA+Automation+Engineer;Deep+Learning+%7C+Graph+Neural+Networks+%7C+Software+Testing;Building+Reliable+and+Intelligent+AI+Systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabeyabashrisumona&show_icons=true&locale=en&layout=compact" alt="rabeyabashrisumona" /></p>
+# 👋 Hi, I'm Rabeya Bashri Sumona
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&locale=en" alt="rabeyabashrisumona" /></p>
+🎓 Computer Science & Engineering Student  
+🧠 AI Research Enthusiast (Deep Learning, GNNs, Medical AI)  
+⚙️ Machine Learning & AI Engineer (PyTorch-based systems)  
+🧪 Software Quality Assurance & Automation Engineer  
+
+I work across **three interconnected domains**:
+> 🔬 Research (AI models & theory)  
+> ⚙️ Engineering (deployable ML systems)  
+> 🧪 Quality Assurance (testing, reliability, automation)
+
+---
+
+## 🧠 Research Focus (PhD-Oriented)
+
+- 🧬 Medical Image Analysis (Brain Tumor Classification)
+- 🧠 Graph Neural Networks (GAT, message passing)
+- 👁️ Computer Vision (CNN, Transfer Learning, Feature Fusion)
+- 📊 Model Explainability (Grad-CAM, evaluation metrics)
+- 📚 Experimental AI model design
+
+---
+
+## ⚙️ AI Engineering Focus
+
+- PyTorch / TensorFlow deep learning pipelines  
+- Model training, optimization & debugging  
+- Feature fusion architectures (CNN hybrids)  
+- Dataset preprocessing & augmentation pipelines  
+- End-to-end ML workflow design  
+
+---
+
+## 🧪 Software QA & Automation Focus
+
+- Manual Testing & Test Case Design  
+- Bug Reporting & QA Documentation  
+- API Testing (REST APIs, Postman)  
+- Automation Testing (Playwright)  
+- SDLC / STLC understanding  
+- ERP System Testing  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight&hide_border=true" width="48%"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night" width="95%"/>
+</p>
+
+---
+
+## 📈 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠 Technical Skill Balance
+
+### 🤖 AI / Machine Learning Engineering
+```text
+Deep Learning (CNN, Transfer Learning)   ██████████ 90%
+PyTorch / Model Engineering              █████████  85%
+Feature Engineering                      ████████   80%
