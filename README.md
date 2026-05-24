@@ -17,11 +17,11 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="360" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlzMzJ6anUzbHJvMm93cDE4dDMwaGl5MngzcGQ0YndjdTFibDhwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 
 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
 
-🏅 **BSc CSE · AI Major** @ Bangladesh University of Business and Technology *(CGPA: 3.82/4.00 · 3rd in Department)*
+🏅 **BSc CSE · AI Major** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
 
 🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
 
@@ -188,3 +188,8 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
 </div>
 
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
+</div>
