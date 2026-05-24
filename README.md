@@ -8,15 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;QA+Automation+Engineer;Elsevier+Q1+First+Author;Computer+Vision+%7C+Medical+AI;MSc+CSE+%40+North+South+University" />
 </p>
 
-<!-- ========================= TAGLINE ========================= -->
 <h3 align="center">
 Building AI Solutions • Researching Intelligent Systems • Automating Quality
 </h3>
 <p align="center">
-BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Computer Vision
+BSc CSE (AI Major) &nbsp;•&nbsp; Elsevier Q1 First Author &nbsp;•&nbsp; QA Automation &nbsp;•&nbsp; Medical Computer Vision
 </p>
 
-<!-- ========================= PROFILE VIEWS ========================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rabeyabashrisumona&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
@@ -25,15 +23,15 @@ BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Co
 
 # 🚀 About Me
 
-- 🔬 Currently working as a **Research Assistant at [Peer Research Lab](https://peerresearchlab.com/team)**, building hybrid CNN models for brain tumor classification and contributing to published medical AI research.
+- 🧠 I build **deep learning systems that analyze medical images** — my published work focuses on brain tumor classification using hybrid CNNs, and I'm actively expanding that into 3D MRI segmentation and explainable AI.
 
-- 📄 **Elsevier Q1 First Author** — published research on deep learning for brain tumor diagnosis using CNNs, Transfer Learning, and hybrid architectures.
+- 📄 **Elsevier Q1 First Author** — not just a contributor, I led the experiments, validation, and technical writing for a published medical AI paper in 2025.
 
-- 🏥 Passionate about **Computer Vision and Medical AI** — building systems that produce real, measurable outcomes for healthcare and diagnosis.
+- 🧪 I also build **production-grade QA automation frameworks** using Playwright — multi-layer testing across API, E2E, and visual regression, with CI/CD running on every push.
 
-- 🧪 Experienced in **QA Automation Engineering** — multi-layer testing frameworks with Playwright covering API, E2E functional, and visual regression testing.
+- 🎓 Currently doing **MSc in CSE at North South University** while working as a Research Assistant at [Peer Research Lab](https://peerresearchlab.com/team), shipping real research.
 
-- 🎓 Completed **BSc in Computer Science & Engineering (AI Major)** from **Bangladesh University of Business and Technology (BUBT)** with a CGPA of **3.82 / 4.00**.
+- 💡 I work across the full pipeline — from raw data and model training to evaluation, testing, and documentation. I don't just research; I build and validate.
 
 ---
 
@@ -46,38 +44,31 @@ BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Co
 - Applied data augmentation, preprocessing, and stratified splitting
 - Full evaluation: Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix
 - Hyperparameter tuning and learning rate scheduling for model optimization
-- Contributed to **Q1 Elsevier publication** as first author through experimental validation
+- Led to **Q1 Elsevier publication** as first author through experimental validation
 
 ---
 
 ## 📊 Business Analyst — Munshe IT
 `Jul 2025 – Aug 2025`
 - Analyzed software requirements and mapped functional workflows
-- Collaborated with developers to clarify requirements and resolve ambiguities
-- Assisted in documentation, task tracking, and reporting
+- Collaborated with developers on documentation, task tracking, and reporting
 
 ---
 
 # 📚 Research & Publications
 
-## 🧠 Elsevier Q1 Publication — `First Author`
+## 🧠 Elsevier Q1 — `First Author` — 2025
 ### *An Integrated Deep Learning Approach for Enhancing Brain Tumor Diagnosis*
 
-- Published in an **Elsevier Q1 indexed journal**, 2025
-- Research focused on:
-  - CNN Architectures & Hybrid Model Design
-  - Transfer Learning (ResNet, Xception)
-  - Medical Image Classification
-  - Brain Tumor Diagnosis
-  - Explainability with Grad-CAM
+- Published in an **Elsevier Q1 indexed journal**
+- CNN Architectures · Transfer Learning (ResNet, Xception) · Medical Image Classification · Brain Tumor Diagnosis · Grad-CAM
 
 🔗 DOI: [doi.org/10.1016/j.health.2025.100421](https://doi.org/10.1016/j.health.2025.100421)
 
 ---
 
-## 📋 Under Review
+## 📋 Under Review — Data In Brief
 ### *BanglaVegNet: A Comprehensive Multiclass Image Dataset of Traditional Bangladeshi Vegetables for AI Applications*
-*Data In Brief — Under Review*
 
 ---
 
@@ -149,11 +140,13 @@ BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Co
 
 # 🏆 Achievements
 
-- 🥇 **National Champion** — Poster Presentation, BCS ICT Fest 2025, IICT, BUET
-- 🥇 **Inter-University Champion** — Innovative Idea Pitching, Brainstorming Week 2024
-- 🥉 **3rd Place** — Research Poster Presentation (AI Mode), Brainstorming Week 2024
-- 🎯 **Finalist** — Coding Sprint 2024 (Machine Learning Competition)
-- 📄 **Elsevier Q1 First Author** — Medical AI & Brain Tumor Diagnosis, 2025
+| | |
+|---|---|
+| 🥇 | **National Champion** — Poster Presentation, BCS ICT Fest 2025, IICT, BUET |
+| 🥇 | **Inter-University Champion** — Innovative Idea Pitching, Brainstorming Week 2024 |
+| 🥉 | **3rd Place** — Research Poster Presentation (AI Mode), Brainstorming Week 2024 |
+| 🎯 | **Finalist** — Coding Sprint 2024 (Machine Learning Competition) |
+| 📄 | **Elsevier Q1 First Author** — Medical AI, 2025 |
 
 ---
 
@@ -170,14 +163,14 @@ BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Co
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=github-dark-blue&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeyabashrisumona&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&langs_count=7" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=7" width="46%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&theme=github-compact&hide_border=true&area=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&bg_color=0d1117&color=58A6FF&line=58A6FF&point=f59e0b&hide_border=true&area=true&area_color=1e3a5f" width="98%"/>
 </p>
 
 ---
@@ -199,7 +192,7 @@ BSc CSE (AI Major) • Elsevier Q1 First Author • QA Automation • Medical Co
 ---
 
 <p align="center">
-⭐ "Passionate about building Computer Vision systems that create real, measurable outcomes in healthcare and medicine." ⭐
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&lines=I+train+models+that+see+what+eyes+miss+%E2%80%94+and+test+systems+before+they+fail+in+production." />
 </p>
 
 <!-- SNAKE -->
