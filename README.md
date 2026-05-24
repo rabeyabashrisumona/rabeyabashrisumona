@@ -171,7 +171,7 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 | | Institution | Degree | CGPA | Year |
 |:---:|---|---|:---:|:---:|
 | 🏛️ | **North South University** | MSc in CSE | 3.50 / 4.00 | 2025 – Present |
-| 🏛️ | **Bangladesh University of Business and Technology** | BSc in CSE · AI Major · 🥉 3rd in Department | 3.82 / 4.00 | 2021 – 2025 |
+| 🏛️ | **BUBT** | BSc in CSE · AI Major · 🥉 3rd in Department | 3.82 / 4.00 | 2021 – 2025 |
 | 🏫 | **Shaheed Police Smrity College** | HSC | 5.00 / 5.00 | 2020 |
 
 ---
@@ -188,8 +188,3 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
 </div>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
-</div>
