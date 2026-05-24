@@ -19,7 +19,7 @@
 
 Hi — I'm **Rabeya**, an AI/ML Engineer, QA Automation Engineer, and active researcher from **Dhaka, Bangladesh**.
 
-I believe AI can transform how medicine works. My mission is to build **Computer Vision systems that give doctors clearer insight, more accurate diagnoses, and better outcomes for patients** — turning research into real-world impact.
+I build intelligent systems that matter — from deep learning models that analyse medical images, to automated test frameworks that catch what humans miss. I don't just study AI; I ship it, validate it, and publish it.
 
 - 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
 - 🏅 **BSc CSE (AI Major)** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
@@ -90,7 +90,6 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -144,7 +143,7 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 - Pandas · NumPy · OpenCV
 - MySQL · MongoDB
 - Git · Jira · LaTeX
-- Postman · Node.js
+- Node.js
 
 </td>
 </tr>
@@ -179,7 +178,7 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=rabeyabashrisumona&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=rabeyabashrisumona&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="46%"/>
 
@@ -191,8 +190,6 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
 <div align="center">
 
-*I train models that see what eyes miss — and test systems before they fail in production.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,17,30&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,20,17,30&height=120&section=footer&text=I%20didn%27t%20wait%20for%20opportunity%20%E2%80%94%20I%20built%20it%2C%20tested%20it%2C%20and%20published%20it.&fontSize=15&fontColor=58A6FF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 </div>
