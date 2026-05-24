@@ -21,7 +21,7 @@
 
 🎓 **MSc CSE** @ North South University *(CGPA: 3.50/4.00)*
 
-🏅 **BSc CSE · AI Major** @ BUBT *(CGPA: 3.82/4.00 · 3rd in Department)*
+🏅 **BSc CSE · AI Major** @ Bangladesh University of Businesss and Technology *(CGPA: 3.82/4.00 · 3rd in Department)*
 
 🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
 
