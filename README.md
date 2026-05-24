@@ -185,7 +185,6 @@ Published in **Healthcare Analytics** (Elsevier Q1 indexed journal)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="46%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rabeyabashrisumona&bg_color=0d1117&color=58A6FF&line=58A6FF&point=f59e0b&hide_border=true&area=true&area_color=1e3a5f" width="98%"/>
 
 </div>
 
