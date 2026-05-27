@@ -14,13 +14,13 @@
 ---
 
 ## About Me
-
-🎓 MSc CSE @ North South University
-🏅 BSc CSE · AI Major · 3rd in Department @ BUBT
-🔬 Research Assistant @ [Peer Research Lab](https://peerresearchlab.com/team)
-📄 Elsevier Q1 First Author — Medical AI & Brain Tumor Diagnosis
-🧪 QA Automation Engineer — Playwright · API · E2E · CI/CD
-📍 Dhaka, Bangladesh · Open to research collaborations & AI/ML roles
+---
+* 🎓 **MSc CSE** @ North South University
+* 🏅 **BSc CSE** · AI Major · 3rd in Department @ BUBT
+* 🔬 **Research Assistant** @ [Peer Research Lab](https://peerresearchlab.com/team)
+* 📄 **Elsevier Q1 First Author** — Medical AI & Brain Tumor Diagnosis
+* 🧪 **QA Automation Engineer** — Playwright · API · E2E · CI/CD
+* 📍 Dhaka, Bangladesh · Open to research collaborations & AI/ML roles
 
 ---
 
