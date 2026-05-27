@@ -1,4 +1,6 @@
-### Rabeya Bashri Sumona
+<div align="center">
+
+# Rabeya Bashri Sumona
 
 **AI Engineer · QA Engineer · ML Researcher**
 
@@ -11,7 +13,14 @@
 
 ---
 
-I'm a medical AI researcher and QA engineer building systems that are both clinically meaningful and rigorously tested. What drives me is the intersection of research and engineering — where model explainability meets real diagnostic impact, and where software quality is treated as seriously as scientific validity. Currently pursuing my MSc at North South University while publishing in Elsevier Q1 journals and exploring new problems in computer vision and medical imaging.
+## About Me
+
+🎓 MSc CSE @ North South University
+🏅 BSc CSE · AI Major · 3rd in Department @ BUBT
+🔬 Research Assistant @ [Peer Research Lab](https://peerresearchlab.com/team)
+📄 Elsevier Q1 First Author — Medical AI & Brain Tumor Diagnosis
+🧪 QA Automation Engineer — Playwright · API · E2E · CI/CD
+📍 Dhaka, Bangladesh · Open to research collaborations & AI/ML roles
 
 ---
 
@@ -77,7 +86,7 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 
 `Dataset Paper` `Computer Vision` `Agriculture` `Bangla` `Benchmark`
 
-<a href="https://data.mendeley.com/datasets/rtx9ngb68j/2"><img src="https://img.shields.io/badge/Dataset-Mendeley_Data-0288D1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white" alt="Mendeley Dataset"></a>
+<a href="https://data.mendeley.com/datasets/rtx9ngb68j/2"><img src="https://img.shields.io/badge/Dataset-Mendeley_Data-0288D1?style=flat-square&logo=databricks&logoColor=white" alt="Mendeley Dataset"></a>
 
 ---
 
@@ -129,6 +138,17 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumona18&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona18&layout=compact&hide_border=true&theme=default&cache_seconds=86400" alt="Top Languages" />
+
+</div>
 
 ---
 
