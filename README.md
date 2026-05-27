@@ -45,10 +45,10 @@
 
 ---
 
-### 🥦 BanglaVegNet — Published Dataset · Mendeley Data · 2025
+### 🥦 BanglaVegNet — Open Dataset · Mendeley Data · 2025
 > 4,730 images · 42 vegetable classes · 2,086+ downloads
-> DOI: 10.17632/rtx9ngb68j.2
-> Companion paper under review at Data In Brief (Elsevier)
+- Published & openly accessible on Mendeley Data
+- DOI: 10.17632/rtx9ngb68j.2
 
 ---
 
