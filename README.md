@@ -48,8 +48,7 @@
 ### 🥦 BanglaVegNet — Open Dataset · Mendeley Data · 2025
 > 4,730 images · 42 vegetable classes · 2,086+ downloads
 - Published & openly accessible on Mendeley Data
-- DOI: 10.17632/rtx9ngb68j.2
-
+[![Dataset](https://img.shields.io/badge/Dataset-Mendeley_Data-blue?style=flat-square)](https://data.mendeley.com/datasets/rtx9ngb68j/2)
 ---
 
 ### 🧪 QA Automation Framework
