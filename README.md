@@ -138,19 +138,21 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumona18&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rabeyabashrisumona&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=rabeyabashrisumona&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=f59e0b&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" width="49%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeyabashrisumona&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="46%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona18&layout=compact&hide_border=true&theme=default&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
 ---
+
+
 
 <div align="center">
 <sub>Currently: MSc @ North South University · Building medical AI systems · Open to research collaborations & AI/ML opportunities</sub>
