@@ -1,21 +1,30 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/sumona18" width="120" style="border-radius: 50%;" alt="Rabeya Bashri Sumona" />
+<!-- 
+  PHOTO SETUP (one-time, choose one option):
+  Option A — Upload your photo to this repo:
+    1. Create a folder: assets/
+    2. Add your photo as: assets/photo.jpg
+    3. The line below will work automatically.
+  Option B — Use your GitHub numeric user ID (most reliable):
+    Replace YOUR_NUMERIC_ID below with your actual ID from: https://api.github.com/users/sumona18
+-->
+<img src="./assets/photo.jpg" width="120" height="120" style="border-radius:50%;object-fit:cover;" alt="Rabeya Bashri Sumona" />
 
 # Rabeya Bashri Sumona
 
 **AI Engineer · QA Engineer · ML Researcher**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumona18)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en)
-[![Research Lab](https://img.shields.io/badge/Peer_Research_Lab-7C3AED?style=flat-square&logo=flask&logoColor=white)](https://peerresearchlab.com/team)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rabeyabashrisumona@gmail.com)
+<a href="https://linkedin.com/in/sumona18"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://peerresearchlab.com/team"><img src="https://img.shields.io/badge/Peer_Research_Lab-7C3AED?style=flat-square&logo=flask&logoColor=white" alt="Peer Research Lab"></a>
+<a href="mailto:rabeyabashrisumona@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
 ---
 
-I'm a medical AI researcher and QA engineer building systems that are both clinically meaningful and rigorously tested. I find genuine excitement at the intersection of research and engineering — where model explainability meets real diagnostic impact, and where software quality is treated as seriously as scientific validity. Currently pursuing my MSc at North South University while publishing in Elsevier Q1 journals and exploring new problems in computer vision and medical imaging.
+I'm a medical AI researcher and QA engineer building systems that are both clinically meaningful and rigorously tested. What drives me is the intersection of research and engineering — where model explainability meets real diagnostic impact, and where software quality is treated as seriously as scientific validity. Currently pursuing my MSc at North South University while publishing in Elsevier Q1 journals and exploring new problems in computer vision and medical imaging.
 
 ---
 
@@ -81,7 +90,7 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 
 `Dataset Paper` `Computer Vision` `Agriculture` `Bangla` `Benchmark`
 
-[![Dataset](https://img.shields.io/badge/Dataset-Mendeley_Data-blue?style=flat-square)](https://data.mendeley.com/datasets/rtx9ngb68j/2)
+<a href="https://data.mendeley.com/datasets/rtx9ngb68j/2"><img src="https://img.shields.io/badge/Dataset-Mendeley_Data-0288D1?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white" alt="Mendeley Dataset"></a>
 
 ---
 
@@ -90,11 +99,8 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 ### 🔬 Research Assistant — Peer Research Lab
 `Oct 2025 – Present`
 
-- Developed hybrid CNN models for brain tumor classification using **PyTorch**
-- Implemented transfer learning pipelines with **ResNet50** and **Xception**
-- Applied data augmentation, preprocessing, and stratified splitting
-- Full model evaluation with hyperparameter tuning and learning rate scheduling
-- Published as **Q1 Elsevier first author** through rigorous experimental validation
+- Led development of hybrid CNN models for brain tumor classification, resulting in a Q1 Elsevier publication as first author
+- Implemented full ML pipeline: data augmentation, transfer learning, hyperparameter tuning, and model evaluation
 
 ### 📊 Business Analyst — Munshe IT
 `Jul 2025 – Aug 2025`
@@ -138,13 +144,20 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumona18&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumona18&layout=compact&hide_border=true&theme=default)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumona18&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona18&layout=compact&hide_border=true&theme=default&cache_seconds=86400" alt="Top Languages" />
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Currently: MSc @ North South University · Building medical AI systems · Open to research collaborations & AI/ML opportunities</sub><br><br>
+<sub>Currently: MSc @ North South University · Building medical AI systems · Open to research collaborations & AI/ML opportunities</sub>
+<br/><br/>
 <a href="https://linkedin.com/in/sumona18">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=DpxqMEcAAAAJ&hl=en">Google Scholar</a> · <a href="mailto:rabeyabashrisumona@gmail.com">Email</a>
-</sub>
 </div>
