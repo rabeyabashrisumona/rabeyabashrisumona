@@ -1,17 +1,4 @@
-<div align="center">
-
-<!-- 
-  PHOTO SETUP (one-time, choose one option):
-  Option A — Upload your photo to this repo:
-    1. Create a folder: assets/
-    2. Add your photo as: assets/photo.jpg
-    3. The line below will work automatically.
-  Option B — Use your GitHub numeric user ID (most reliable):
-    Replace YOUR_NUMERIC_ID below with your actual ID from: https://api.github.com/users/sumona18
--->
-<img src="./assets/photo.jpg" width="120" height="120" style="border-radius:50%;object-fit:cover;" alt="Rabeya Bashri Sumona" />
-
-# Rabeya Bashri Sumona
+### Rabeya Bashri Sumona
 
 **AI Engineer · QA Engineer · ML Researcher**
 
@@ -142,17 +129,6 @@ Published in *Healthcare Analytics* — Elsevier Q1 indexed
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sumona18&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona18&layout=compact&hide_border=true&theme=default&cache_seconds=86400" alt="Top Languages" />
-
-</div>
 
 ---
 
