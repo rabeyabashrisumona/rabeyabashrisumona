@@ -45,14 +45,10 @@
 
 ---
 
-### 🥦 BanglaVegNet — Vegetable Image Dataset
-> Comprehensive multiclass image dataset of traditional Bangladeshi vegetables for AI applications
-
-- Original dataset built for training agriculture-focused computer vision models
-- Structured for multi-class classification benchmarking
-- **Under review** at *Data In Brief* (Elsevier)
-
-`Dataset` `Computer Vision` `Agriculture AI` `Image Classification` `Elsevier`
+### 🥦 BanglaVegNet — Published Dataset · Mendeley Data · 2025
+> 4,730 images · 42 vegetable classes · 2,086+ downloads
+> DOI: 10.17632/rtx9ngb68j.2
+> Companion paper under review at Data In Brief (Elsevier)
 
 ---
 
